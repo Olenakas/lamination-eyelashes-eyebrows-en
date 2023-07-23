@@ -2127,6 +2127,12 @@ border: 1px solid var(--accent-color-hover-add);
   }
 
   /*/button-close*/  
+  .mobile-menu-list{
+    padding-bottom: 100px;
+
+  }
+
+
   .menu-mobile-item:not(:last-child) {
     margin-bottom: 24px;
   }
